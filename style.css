@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: bisque;
+}
+.container {
+  height: 55%;
+  padding: 15px;
+  background-color: rgb(185, 235, 235);
+  position: absolute;
+  top: 20%;
+  left: 40%;
+}
+.input-box {
+  margin-bottom: 11px;
+}
+
+.ol-list > li {
+  margin-left: 17px;
+  line-height: 25px;
+  font-weight: 600;
+  font-size: 18px;
+}
+.click {
+  cursor: pointer;
+}
